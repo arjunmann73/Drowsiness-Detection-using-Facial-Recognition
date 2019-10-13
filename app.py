@@ -11,6 +11,7 @@ def index():
 def index2():
         #index2 = request.form
         #return render_template('index2.html')
+        os.system("dir")
         os.system('python drowsy.py -p shape_predictor_68_face_landmarks.dat -a alarm.wav')
         return render_template('index3.html')
    
