@@ -6,3 +6,5 @@ Presented at IEEE.v6 at NTU, Singapore.
 2) Flask
 3) Python
 
+More about this project at: https://devpost.com/software/bn-wakeup
+
